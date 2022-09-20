@@ -97,7 +97,7 @@ class _TugasStatefulState extends State<TugasStateful> {
           ),
           const ListTile(
             title: Text(
-              "Fakultas UPN",
+              "Fakultas",
               style: TextStyle(
                 fontWeight: FontWeight.w900,
               ),
