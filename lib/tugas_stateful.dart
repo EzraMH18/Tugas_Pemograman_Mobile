@@ -73,7 +73,7 @@ class _TugasStatefulState extends State<TugasStateful> {
           ),
           const ListTile(
             title: Text(
-              "Kehadiran",
+              "Aktivitas",
               style: TextStyle(
                 fontWeight: FontWeight.w900,
               ),
